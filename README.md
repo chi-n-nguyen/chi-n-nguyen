@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤍 1st year Data Science student @ Unimelb<br>🤍 Interested in Applied Math & AI<br>🤍 Fun things I do: Film photography, chess, drinking matcha
+🤍 1st year Data Science student @ Unimelb, Marketing @ DSCubed & GDSC <br>🤍 Interested in: Applied Math & AI<br>🤍 Fun things I do: Film photography, chess, drinking matcha
 
 
 # 💻 Tech Stack:
