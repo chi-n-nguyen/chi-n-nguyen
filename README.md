@@ -1,5 +1,5 @@
 # About Me:
-🤍 1st year Data Science student & Science Student Ambassador @ Unimelb, Marketing @ DSCubed & GDSC <br>🤍 Interested in: Applied Math & AI<br>🤍 Fun things I do: Film & digital photography, playing chess (1100 elo), eating bún bò Huế, studying 
+1st year Data Science student & Science Student Ambassador @ Unimelb, Marketing @ DSCubed & GDSC <br>Interested in: Applied Math & AI<br>Fun things I do: Film & digital photography, playing chess (1100 elo), eating bún bò Huế, studying 
 
 
 # Tech Stack:
