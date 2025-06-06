@@ -1,5 +1,5 @@
 # About Me:
-✿ 1st year Data Science student & Science Student Ambassador @ Unimelb, Marketing @ DSCubed & VCi <br>✿ Interested in: Applied Math & AI<br>✿ Fun things I do: Film & digital photography, playing chess (1100 elo), studying 
+✿ 1st year Data Science student & Science Student Ambassador @ Unimelb, Marketing @ DSCubed & VCi <br>✿ Interested in: Applied Math & AI<br>✿ Fun things I do: Film & digital photography, playing chess (1100 elo), studying <br>✿ Fav programmer: Terry A. Davis
 
 
 # Tech Stack:
