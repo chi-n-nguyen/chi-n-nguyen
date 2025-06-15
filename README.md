@@ -1,5 +1,5 @@
 # About Me:
-1st year DS student @ Unimelb <br> Interested in: Applied Math & AI <br> Favourite programmer: Terry A. Davis
+1st year DS student @ Unimelb <br> interested in: applied math & AI <br> favourite programmer: Terry A. Davis
 
 
 # Tech Stack:
