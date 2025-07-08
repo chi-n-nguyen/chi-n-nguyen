@@ -1,5 +1,6 @@
 # About Me:
-- 2nd year DS student @ Unimelb <br> - interested in: applied math & AI 
+- 2nd year DS student @ Unimelb <br>
+- interested in: applied math & AI 
 
 
 # Tech Stack:
