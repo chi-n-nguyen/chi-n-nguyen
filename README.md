@@ -1,6 +1,6 @@
 # About Me:
 - 2nd year DS student @ Unimelb <br>
-- Interested in: Applied Math & AI <br>
+- Interested in Applied Math & AI <br>
 - I'm also funny and have a personality get to know me twin 😄
 
 
