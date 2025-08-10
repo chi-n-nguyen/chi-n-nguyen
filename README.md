@@ -4,4 +4,3 @@
 - Biggest fan of Anthropic <br>
 - I'm also funny get to know me twin 😄 <br> <br>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chi-n-nguyen)](https://github.com/anuraghazra/github-readme-stats)
