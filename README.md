@@ -5,4 +5,4 @@
 - I'm also funny get to know me twin 😄
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chi-n-nguyen&show_icons=true&theme=transparent) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chi-n-nguyen&layout=compact&theme=transparent)
