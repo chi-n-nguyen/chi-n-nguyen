@@ -4,3 +4,4 @@
 - Biggest fan of Anthropic <br>
 - I'm also funny get to know me twin 😄 <br> <br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chi-n-nguyen&layout=compact&theme=apprentice)
